@@ -66,6 +66,7 @@
     <Compile Include="Assets\_Scripts\FSM\FSM.cs" />
     <Compile Include="Assets\_Scripts\FSM\FSMState.cs" />
     <Compile Include="Assets\_Scripts\FSM\FSMTransition.cs" />
+    <Compile Include="Assets\_Scripts\General\BoundController.cs" />
     <Compile Include="Assets\_Scripts\Player\Commands\JumpCommand.cs" />
     <Compile Include="Assets\_Scripts\Player\Commands\WalkCommand.cs" />
     <Compile Include="Assets\_Scripts\Player\PlayerInputHandler.cs" />

@@ -26,6 +26,9 @@
             <e p="FSMState.cs" t="Include" />
             <e p="FSMTransition.cs" t="Include" />
           </e>
+          <e p="General" t="Include">
+            <e p="BoundController.cs" t="Include" />
+          </e>
           <e p="Player" t="Include">
             <e p="Commands" t="Include">
               <e p="JumpCommand.cs" t="Include" />
