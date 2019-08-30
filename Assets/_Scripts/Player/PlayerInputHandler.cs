@@ -35,7 +35,7 @@ public class PlayerInputHandler : MonoBehaviour
 
     private void FixedUpdate()
     {
-        isGrounded = Physics2D.OverlapCircle(groundCheckPosition.position, 0.1f, whatIsGround);
+        isGrounded = Physics2D.OverlapCircle(groundCheckPosition.position, 0.2f, whatIsGround);
         moveX = Input.GetAxisRaw("Horizontal");
         
         if (Input.GetButtonDown("Jump"))
