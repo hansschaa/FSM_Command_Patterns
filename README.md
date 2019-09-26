@@ -1,5 +1,5 @@
 # FSM_Command_Patterns
-Example project of the article "Design patterns for Game development".
+Example project "Design patterns for Game development" article.
 
 ![](https://i.imgur.com/5HvIthz.png)
 
