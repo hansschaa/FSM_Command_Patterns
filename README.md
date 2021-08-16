@@ -10,11 +10,7 @@ _Current Used Unity Version : 2018.2_
 This project is a basic platform game developed for help to undertanding State pattern and Command pattern, 
 is very easy extendiblity and adapt to your own project.
 
-I added a brief tutorial for explain the patterns implementation in the unity connect page.
-[Tutorial](https://connect.unity.com/p/maintainable-finite-state-machines
-)
-
-An article is available in []
+An article is available in [here](https://ludology.usek.cl/wp-content/uploads/2021/01/LUDOLOGYN2-2020-30-38.pdf)
 
 ## Note for this Github version
 
